@@ -6,6 +6,8 @@ Example: `https://facebook.github.io/graphql/` -> `https://github.com/facebook/g
 
 ![](screenshot.png)
 
+[Download on the Chrome Web Store](https://chrome.google.com/webstore/detail/github-pages-view-source/eboipoomjlbpkfmmiicfgmclghepgbbk)
+
 ## Licence
 
 [http://rmlewisuk.mit-license.org/](http://rmlewisuk.mit-license.org/)
